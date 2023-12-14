@@ -26,15 +26,15 @@ import moment from 'moment-timezone'
 /*==============USER-INFO==============*/
 global.owner = [
   ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['254102510747', 'Wajackoya', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['254102510747','8801853262586'] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.nomorbot = '254102510747' //Change it to your own
+global.nomorown = '254102510747' //Change it to your own
+global.namebot = 'WAJAC BOT' //change it to your own
+global.nameown = 'Wajackoya' // change it to your own
 
 //*============= ==============*/
 
@@ -71,15 +71,15 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
+global.sig = 'https://instagram.com/wajackoyah_jnr' //Link Instagrammu
+global.sgh = 'https://github.com/Wajackoya/X-GEN-MD' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '254102510747' //Nomor Danamu
+global.ppulsa = '254102510747' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
@@ -121,8 +121,8 @@ global.APIKeys = { // APIKey Here
 global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
+global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254102510747`
+global.fig = `Follow me on instagram:\n\t\tinstagram.com/wajackoyah_jnr`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
 global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '254102510747'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
