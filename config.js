@@ -26,15 +26,15 @@ import moment from 'moment-timezone'
 /*==============USER-INFO==============*/
 global.owner = [
   ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['254102510747', 'Wajackoya', true] 
+  ['254102510747', '〖┋➠ 𝕎𝕒𝕛𝕒𝕔𝕜𝕠𝕪𝕒™', true] 
 ] 
 
-global.mods = ['254102510747','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['254102510747'] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
 global.nomorbot = '254102510747' //Change it to your own
 global.nomorown = '254102510747' //Change it to your own
-global.namebot = 'WAJAC BOT' //change it to your own
-global.nameown = 'Wajackoya' // change it to your own
+global.namebot = 'X-GEN' //change it to your own
+global.nameown = '〖┋➠ 𝕎𝕒𝕛𝕒𝕔𝕜𝕠𝕪𝕒™' // change it to your own
 
 //*============= ==============*/
 
